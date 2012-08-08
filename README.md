@@ -67,9 +67,9 @@ Lets we talk, what is in CyanMobile
    - Notification Background
    - Notification Background Color
 
-![image one] [1]
+![image one][1]
 
-![image two] [2]
+![image two][2]
 ====================================================================================================
 2. Framework :
  * Lockscreen
@@ -132,7 +132,7 @@ Lets we talk, what is in CyanMobile
    - Volume Key Beeps
    - Swap Volume Keys
 
-![image three] [3]
+![image three][3]
 ====================================================================================================
 3. Sound :
  * Features
@@ -163,7 +163,7 @@ Lets we talk, what is in CyanMobile
    - Ring Delay
    - Export/Import SIM Contacts
 
-![image four] [4]
+![image four][4]
 ====================================================================================================
 6. Messaging :
  * Features
@@ -219,19 +219,19 @@ Lets we talk, what is in CyanMobile
    - SIM ToolKit Improving
    - Voice Dialer Improving
 
-![image six] [6]
+![image six][6]
 
-![image seven] [7]
+![image seven][7]
 
-![image eight] [8]
+![image eight][8]
 
-![image nine] [9]
+![image nine][9]
 
-![image ten][ 10]
+![image ten][10]
 
-![image eleven] [11]
+![image eleven][11]
 
-![image twelev] [12]
+![image twelev][12]
 ====================================================================================================
 11. All Binary and Library is up to Date
 
