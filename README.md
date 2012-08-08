@@ -281,7 +281,6 @@ CMSettings/Performance settings (other than stock):
 other modifications:
 
 Provide any additional information (observations/frequency) of problem/last version it worked
-====================================================================================================
 
 
 
