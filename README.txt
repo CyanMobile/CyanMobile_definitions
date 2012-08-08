@@ -67,9 +67,6 @@ Lets we talk, what is in CyanMobile
    - Notification Background
    - Notification Background Color
 
-![image one][1]
-
-![image two][2]
 ====================================================================================================
 2. Framework :
  * Lockscreen
@@ -132,7 +129,6 @@ Lets we talk, what is in CyanMobile
    - Volume Key Beeps
    - Swap Volume Keys
 
-![image three][3]
 ====================================================================================================
 3. Sound :
  * Features
@@ -163,7 +159,6 @@ Lets we talk, what is in CyanMobile
    - Ring Delay
    - Export/Import SIM Contacts
 
-![image four][4]
 ====================================================================================================
 6. Messaging :
  * Features
@@ -177,7 +172,6 @@ Lets we talk, what is in CyanMobile
    - Brutal Sender
    - Sms PopUP
 
-![image five][5]
 ====================================================================================================
 7. Music :
  * Features
@@ -219,19 +213,6 @@ Lets we talk, what is in CyanMobile
    - SIM ToolKit Improving
    - Voice Dialer Improving
 
-![image six][6]
-
-![image seven][7]
-
-![image eight][8]
-
-![image nine][9]
-
-![image ten][10]
-
-![image eleven][11]
-
-![image twelev][12]
 ====================================================================================================
 11. All Binary and Library is up to Date
 
@@ -281,18 +262,4 @@ CMSettings/Performance settings (other than stock):
 other modifications:
 
 Provide any additional information (observations/frequency) of problem/last version it worked
-
-
-
- [1]: https://github.com/Squadzone/CyanMobile_definitions/tree/169266588d9bd915e79242700bfcdabdd0fd3333/CyanMobileSS-20120809_041849.png
- [2]: https://github.com/Squadzone/CyanMobile_definitions/tree/169266588d9bd915e79242700bfcdabdd0fd3333/CyanMobileSS-20120809_041901.png
- [3]: https://github.com/Squadzone/CyanMobile_definitions/tree/169266588d9bd915e79242700bfcdabdd0fd3333/CyanMobileSS-20120809_041914.png
- [4]: https://github.com/Squadzone/CyanMobile_definitions/tree/169266588d9bd915e79242700bfcdabdd0fd3333/CyanMobileSS-20120809_042007.png
- [5]: https://github.com/Squadzone/CyanMobile_definitions/tree/169266588d9bd915e79242700bfcdabdd0fd3333/CyanMobileSS-20120809_003907.png
- [6]: https://github.com/Squadzone/CyanMobile_definitions/tree/169266588d9bd915e79242700bfcdabdd0fd3333/CyanMobileSS-20120809_003838.png
- [7]: https://github.com/Squadzone/CyanMobile_definitions/tree/169266588d9bd915e79242700bfcdabdd0fd3333/CyanMobileSS-20120809_003851.png
- [8]: https://github.com/Squadzone/CyanMobile_definitions/tree/169266588d9bd915e79242700bfcdabdd0fd3333/CyanMobileSS-20120809_003923.png
- [9]: https://github.com/Squadzone/CyanMobile_definitions/tree/169266588d9bd915e79242700bfcdabdd0fd3333/CyanMobileSS-20120809_003938.png
- [10]: https://github.com/Squadzone/CyanMobile_definitions/tree/169266588d9bd915e79242700bfcdabdd0fd3333/CyanMobileSS-20120809_004001.png
- [11]: https://github.com/Squadzone/CyanMobile_definitions/tree/169266588d9bd915e79242700bfcdabdd0fd3333/CyanMobileSS-20120809_033033.png
- [12]: https://github.com/Squadzone/CyanMobile_definitions/blob/master/CyanMobileSS.jpg
+====================================================================================================
